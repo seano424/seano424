@@ -23,7 +23,10 @@ I am a fullstack developer from Kansas City. I was a former teacher and world tr
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sea-oreilly)
-[email](soreilly424@gmail.com)
+LinkedIn --> https://www.linkedin.com/in/sea-oreilly
+Email --> soreilly424@gmail.com
+Instagram --> @sea_oreilly
+<!-- [email](soreilly424@gmail.com) -->
 <!-- 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8581860/sean-oreilly)
 
