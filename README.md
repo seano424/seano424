@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- ### Hello World 👋 -->
+### Hello World 👋
 I am a fullstack software engineer from Kansas City
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🔭 Working on multiple frontend and backend project using React, NextJS, Ruby on Rails, and various other technologies
+- 🌱 I'm currently learning design patterns in depth, how to use Airtable as a database, and using Supabase and Firebase for authentication.
+- 📫 How to reach me: ... I am best with email -  you can write me @ soreilly424@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I have gone scuba diving over 50 times
 <br>
 
 ## Connect with me
@@ -35,12 +37,11 @@ I am a fullstack software engineer from Kansas City
 <br>
 
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby%20On%20Rails-%23232F3E?logo=ruby&logoColor=red&style=for-the-badge" />
-<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="heroku" src="https://img.shields.io/badge/heroku-3DDC84?logo=heroku&logoColor=white&style=for-the-badge" />
-<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%11fff77d.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+- React / Next JS 
+- Ruby on Rails
+- PostgreSQL
+- Redux / Context / State Management
+- TailwindCSS / Styled Components 
 <br>
 <br>
 
