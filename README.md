@@ -33,17 +33,12 @@ I am a fullstack software engineer from Kansas City
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sea-oreilly)
 
-<br>
-<br>
-
 ## Expertise
 - React / Next JS 
 - Ruby on Rails
 - PostgreSQL
 - Redux / Context / State Management
 - TailwindCSS / Styled Components 
-<br>
-<br>
 
 
 ## Readmore about me at...
