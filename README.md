@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋
 I am a fullstack developer from Kansas City. I was a former teacher and world traveler. Now I am working as a freelance developer, looking for new opportunities!
-- 🔭 Working on multiple frontend and backend project using React, NextJS, Ruby on Rails, and various other technologies
+- 🔭 Working on multiple frontend and backend project using React, NextJS, Ruby on Rails, and various other technologies.
 - 🌱 I'm currently learning design patterns in depth, how to use Airtable as a database, and using Supabase and Firebase for authentication.
-- 📫 How to reach me: ... I am best with email -  you can write me @ soreilly424@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have gone scuba diving over 50 times
+- 📫 How to reach me: ... I am best with email -  you can write me @ soreilly424@gmail.com.
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact: I have gone scuba diving over 50 times.
 
 ## Connect with me
 
